@@ -1587,3 +1587,20 @@ section {
     color: darkviolet;
     font-weight: 600;
 }
+
+.new-changes{
+    display: flex;
+    padding: 10px 15px ;
+    background: #008cff7c;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  
+}
+.button-div{
+    
+    align-content: space-between;
+    border-radius: 2px;
+    justify-content: center;
+}
+
